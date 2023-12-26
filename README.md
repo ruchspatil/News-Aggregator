@@ -4,6 +4,7 @@ A ***News Aggregator*** is a combination of web crawlers and web applications. B
 
 <img src="https://forthebadge.com/images/featured/featured-built-with-love.svg" width="180" align="center">   <img src="https://forthebadge.com/images/badges/made-with-python.svg" align="center">   <img src="https://forthebadge.com/images/badges/uses-html.svg" width="140" align="center"> <img src="https://forthebadge.com/images/badges/uses-css.svg" width="130" align="center">  
 
+<img src="https://forthebadge.com/images/badges/made-with-javascript.svg" width="250" align="center">
 
 ## Technologies used -:
 
